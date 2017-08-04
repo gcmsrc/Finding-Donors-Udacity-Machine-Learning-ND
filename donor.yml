@@ -1,0 +1,79 @@
+name: boston_env
+channels:
+- defaults
+dependencies:
+- cycler=0.10.0=py27_0
+- freetype=2.5.5=2
+- functools32=3.2.3.2=py27_0
+- icu=54.1=0
+- libpng=1.6.27=0
+- matplotlib=2.0.2=np111py27_0
+- mkl=11.3.3=0
+- numpy=1.11.2=py27_0
+- openssl=1.0.2l=0
+- pandas=0.20.1=np111py27_0
+- pip=9.0.1=py27_1
+- pyparsing=2.1.4=py27_0
+- pyqt=5.6.0=py27_2
+- python=2.7.13=0
+- python-dateutil=2.6.0=py27_0
+- pytz=2017.2=py27_0
+- qt=5.6.2=2
+- readline=6.2=2
+- scikit-learn=0.17.1=np111py27_2
+- scipy=0.18.1=np111py27_0
+- setuptools=27.2.0=py27_0
+- sip=4.18=py27_0
+- six=1.10.0=py27_0
+- sqlite=3.13.0=0
+- subprocess32=3.2.7=py27_0
+- tk=8.5.18=0
+- wheel=0.29.0=py27_0
+- zlib=1.2.8=3
+- pip:
+  - appnope==0.1.0
+  - backports-abc==0.5
+  - backports.shutil-get-terminal-size==1.0.0
+  - bleach==2.0.0
+  - certifi==2017.4.17
+  - configparser==3.5.0
+  - decorator==4.0.11
+  - entrypoints==0.2.3
+  - enum34==1.1.6
+  - html5lib==0.999999999
+  - ipykernel==4.6.1
+  - ipython==5.4.1
+  - ipython-genutils==0.2.0
+  - ipywidgets==6.0.0
+  - jinja2==2.9.6
+  - jsonschema==2.6.0
+  - jupyter==1.0.0
+  - jupyter-client==5.1.0
+  - jupyter-console==5.1.0
+  - jupyter-core==4.3.0
+  - markupsafe==1.0
+  - mistune==0.7.4
+  - nbconvert==5.2.1
+  - nbformat==4.3.0
+  - notebook==5.0.0
+  - pandocfilters==1.4.1
+  - pathlib2==2.3.0
+  - pexpect==4.2.1
+  - pickleshare==0.7.4
+  - prompt-toolkit==1.0.14
+  - ptyprocess==0.5.2
+  - pygments==2.2.0
+  - pyzmq==16.0.2
+  - qtconsole==4.3.0
+  - scandir==1.5
+  - simplegeneric==0.8.1
+  - singledispatch==3.4.0.3
+  - terminado==0.6
+  - testpath==0.3.1
+  - tornado==4.5.1
+  - traitlets==4.3.2
+  - wcwidth==0.1.7
+  - webencodings==0.5.1
+  - widgetsnbextension==2.0.0
+prefix: /Users/gsarchioni/anaconda/envs/boston_env
+
